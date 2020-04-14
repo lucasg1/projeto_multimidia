@@ -1,8 +1,8 @@
 Grupo: Lucas Bastos Germano
 
-	Ana Karoline Borges Carneiro
+Ana Karoline Borges Carneiro
 	
-	Carla Sze Cosenza
+Carla Sze Cosenza
 	
 Deve-se primeiro compilar e depois executar os arquivos codificador.cpp, decodificador.cpp e psnr.py, nessa ordem.
 
