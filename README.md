@@ -1,6 +1,6 @@
-Deve-se primeiro compilar e depois executar os arquivos codificador.cpp, decodificador.cpp e psnr.py, nessa ordem.
+Deve-se primeiro compilar e depois executar os arquivos codificador.cpp, decodificador.cpp e psnr.py, nessa ordem. A vers√£o usada de python foi a 2.7.
 
-Pode-se usar qualquer IDE para facilitar a execuÁ„o desses arquivos, mas um passo-a-passo via linha de comando pode ser visto a seguir:
+Pode-se usar qualquer IDE para facilitar a execu√ß√£o desses arquivos, mas um passo-a-passo via linha de comando pode ser visto a seguir:
 
 g++ codificador.cpp -o codificador.out  
 ./codificador.out
